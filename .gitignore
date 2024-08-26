@@ -1,0 +1,6 @@
+/src/*
+!/src/themes/
+/src/themes/*
+!/src/themes/my-theme/
+.env
+nginx/certs/*.pem
